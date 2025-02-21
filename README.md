@@ -19,4 +19,3 @@ A simple Text-to-Speech (TTS) application that converts user-entered text into s
 
 1. Enter text in the input field.
 2. Click the "Speak" button to hear the text aloud.
-3. Adjust the speech rate (if applicable).
